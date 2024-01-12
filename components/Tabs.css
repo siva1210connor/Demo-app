@@ -1,0 +1,15 @@
+.tabs {
+  display: flex;
+  justify-content: space-around;
+}
+.tab {
+  font-size: larger;
+}
+.active-tab {
+  background-color: blue;
+  height: 2px;
+}
+.contents {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
